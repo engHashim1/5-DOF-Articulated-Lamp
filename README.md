@@ -46,4 +46,4 @@ This project is released under the MIT License. You are free to use, modify, and
 ---
 
 ## Author
-Designed and modeled in Tinkercad by [Your Name].
+Designed and modeled in Tinkercad by [Hashim Hasan].
